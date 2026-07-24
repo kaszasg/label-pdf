@@ -1,0 +1,11 @@
+bin/
+obj/
+publish/
+*.user
+*.suo
+.vs/
+.idea/
+.claude/
+*.txt
+!labels1.txt
+*.pdf

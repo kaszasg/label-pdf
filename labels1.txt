@@ -1,0 +1,10 @@
+ivóvíz emelet
+ivóvíz földszint
+ivóvíz kert és garázs
+fűtés hőszivattyú eléremenő
+fűtés hőszivattyú visszatérő
+fűtés geotermikus eléremenő
+fűtés geotermikus visszatérő
+fűtés emelet eléremenő
+fűtés emelet visszatérő
+fűtés emelet eléremenő
